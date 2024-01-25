@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Experienced Senior Software Engineer with a proven track record of over 10 years in web application development, specializing in PHP, Laravel, JavaScript, and cloud platforms. Known for delivering top-notch software solutions that enhance efficiency and streamline workflows. Possesses robust problem-solving abilities and a commitment to staying abreast of emerging technologies.
+
+I bring a wealth of expertise in both front and back-end web development, showcasing proficiency in languages such as PHP, JavaScript, Laravel, Symfony, CodeIgniter, React, Next.js, Vue3, Vuetify, Nuxt.js, Node, HTML, CSS, Sass/SCSS, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, and MongoDB.
+
+My skills extend to interpreting client requirements and translating them into code for implementing new features or refining existing products. I excel in collaborating with testing teams for acceptance testing and maintaining comprehensive technical documentation. I am a team player with excellent problem-solving and interpersonal skills.
+
 <!--
 **ericpeavey07/ericpeavey07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
